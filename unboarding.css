@@ -1,0 +1,21 @@
+.main-d {
+    width: 400px;
+    height: 800px;
+    background-color: green;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.sub-d1 {
+    padding-top: 120px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.sub-d2 {
+    display: flex;
+}
+.div {
+    color: gray;
+    width: 400px;
+}
